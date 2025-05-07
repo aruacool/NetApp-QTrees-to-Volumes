@@ -336,7 +336,7 @@ function New-CommVaultSubclient
                                                   "SVMPrefix2-cifs2",
                                                   "SVMPrefix2-ng-dev-nas",
                                                   "SVMPrefix2-ng-nas",
-                                                  "SVMPrefix2-zabad01")]
+                                                  "SVMPrefix2-somebad01")]
         $SVM,
         $SubclientName,
         $NASPath
